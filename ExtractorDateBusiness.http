@@ -1,0 +1,6 @@
+@ExtractorDateBusiness_HostAddress = http://localhost:5173
+
+GET {{ExtractorDateBusiness_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
